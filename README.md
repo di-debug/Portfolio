@@ -1,6 +1,6 @@
 # Hi I am Deepak 
 
-# Project 13 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
+# Project 1 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
 
 
 Here's the Live Deployed Website ![Project 01](https://img.shields.io/badge/project-01-brightgreen)
